@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { QUESTIONS } from './constants';
 import { QuizState, Question } from './types';
 
