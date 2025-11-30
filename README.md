@@ -2,7 +2,6 @@
 
 An interactive multiple-choice quiz application developed to test basic IT knowledge based on the ECDL Computer Essentials (Windows 11) manual.
 
-![ECDL Quiz Screenshot](https://via.placeholder.com/800x400?text=ECDL+Quiz+Preview)
 
 ## 🚀 Features
 
